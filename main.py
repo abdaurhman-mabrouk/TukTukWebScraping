@@ -748,8 +748,9 @@ def main():
                 movieVideoLink = movieVideoLink()
 
                 # Write The Movies Scraped Data To a File.txt
-                with open("output/Movies_Scraped_Data.txt", "a", encoding="utf-8") as f:
-                    f.write("\n")
+                with open(
+                    "Movies_Scraped_Data.txt", "a", encoding="utf-8"
+                ) as f:
                     f.write("__" * 160)
                     f.write("\n")
                     f.write(f"Website Link: 'https://t40.tuktukcinema1.buzz' \n")
