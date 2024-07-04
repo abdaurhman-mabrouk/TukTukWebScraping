@@ -748,7 +748,7 @@ def main():
                 movieVideoLink = movieVideoLink()
 
                 # Write The Movies Scraped Data To a File.txt
-                with open("Movies_Scraped_Data.txt", "a", encoding="utf-8") as f:
+                with open("output/Movies_Scraped_Data.txt", "a", encoding="utf-8") as f:
                     f.write("\n")
                     f.write("__" * 160)
                     f.write("\n")
