@@ -1,0 +1,42 @@
+<mxfile host="Electron" modified="2024-06-18T19:45:13.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="nUyOuexO6BHhHMFhNSx1" version="24.5.1" type="device">
+  <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
+    <mxGraphModel dx="1591" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jJW8VcXaBvgHbahm5IE_-1" value="TukTuk Movies Website" style="swimlane;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;textShadow=1;labelBorderColor=default;labelBackgroundColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="510" y="230" width="1000" height="750" as="geometry">
+            <mxRectangle x="450" y="250" width="170" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EeTr61na3Gav1LB5D5Wh-6" value="Series&amp;nbsp; List&amp;nbsp; Container" style="swimlane;horizontal=0;whiteSpace=wrap;fontColor=#ffffff;html=1;textShadow=1;labelBorderColor=default;labelBackgroundColor=#000000;" parent="jJW8VcXaBvgHbahm5IE_-1" vertex="1">
+          <mxGeometry x="40" y="50" width="340" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EeTr61na3Gav1LB5D5Wh-7" value="Series Div" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="EeTr61na3Gav1LB5D5Wh-6" vertex="1">
+          <mxGeometry x="30" y="10" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EeTr61na3Gav1LB5D5Wh-8" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;Series Page Link&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="EeTr61na3Gav1LB5D5Wh-7" vertex="1">
+          <mxGeometry x="27.5" y="10" width="262.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EeTr61na3Gav1LB5D5Wh-9" value="Animes List Container" style="swimlane;horizontal=0;whiteSpace=wrap;fontColor=#ffffff;html=1;textShadow=1;labelBorderColor=default;labelBackgroundColor=#000000;" parent="jJW8VcXaBvgHbahm5IE_-1" vertex="1">
+          <mxGeometry x="330" y="420" width="340" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EeTr61na3Gav1LB5D5Wh-10" value="Anime Div" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="EeTr61na3Gav1LB5D5Wh-9" vertex="1">
+          <mxGeometry x="30" y="10" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EeTr61na3Gav1LB5D5Wh-11" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;Anime&amp;nbsp; Page&amp;nbsp; Link&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="EeTr61na3Gav1LB5D5Wh-10" vertex="1">
+          <mxGeometry x="27.5" y="10" width="262.5" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jJW8VcXaBvgHbahm5IE_-7" value="Movies List Container" style="swimlane;horizontal=0;whiteSpace=wrap;fontColor=#ffffff;html=1;textShadow=1;labelBorderColor=default;labelBackgroundColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="280" width="340" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="jJW8VcXaBvgHbahm5IE_-10" value="Movie Div" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="jJW8VcXaBvgHbahm5IE_-7" vertex="1">
+          <mxGeometry x="30" y="10" width="300" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jJW8VcXaBvgHbahm5IE_-8" value="&lt;span style=&quot;background-color: rgb(0, 0, 0);&quot;&gt;Movie Page Link&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="jJW8VcXaBvgHbahm5IE_-10" vertex="1">
+          <mxGeometry x="30" y="10" width="260" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

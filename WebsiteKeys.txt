@@ -1,0 +1,25 @@
+# Quick information
+
+Movies List = "ul.Blocks--List"
+Movie Div = "div.Block--Item"
+Movie Link = "div.Block--Item a"
+Movie Image Link = "div.Block--Item a div.Poster--Block img"
+Movie Name = "div.Block--Item a div.Block--Info h3"
+Movie Genres = div.Block--Item a div.Block--Info ul li"
+
+
+# Detailed information
+
+Movie Details Container = "div.MainSingle"
+Movie Image Link = "div.MainSingle > div.left > div.image > img["src"]"
+Movie Story = "div.MainSingle > div.MasterSingleMeta > div.story > p["text]"
+Movie Genres = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > div.catssection > li[1] > a"
+Movie Time = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[0] > strong["text]"
+Movie Date = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[1] > a"
+Movie Languages = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[2] > a"
+Movie Quality = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[3] > a"
+Movie Countries = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[4] > a"
+Movie Ages = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[5] > a"
+Movie Outputers = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[6] > a"
+Movie Directors = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[7] > a"
+Movie Actors = "div.MainSingle > div.MasterSingleMeta > div.MediaQueryRight > ul.RightTaxContent > li[8] > a"
