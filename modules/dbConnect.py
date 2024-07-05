@@ -1,10 +1,10 @@
 import mysql.connector
 
 # Replace with your actual database credentials and IP address
-host = "sql108.infinityfree.com"
-user = "if0_36376103"
-password = "nUyBQvoR8AwTbX"
-dbName = "if0_36376103_myDataBase"
+host = ""
+user = ""
+password = ""
+dbName = ""
 
 config = {
     "user": user,
